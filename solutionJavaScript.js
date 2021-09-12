@@ -34,4 +34,4 @@ const toLowerCase = function(s){
 }
 
 let S = "ABCddE";
-console.log(toLowerCase(S));
+console.log(`S = ${toLowerCase(S)}`);
